@@ -1,0 +1,10 @@
+[
+  {
+    "address": "123 Main Street",
+    "price": "$45"
+  },
+  {
+    "address": "456 Oak Avenue",
+    "price": "$60"
+  }
+]
