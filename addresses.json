@@ -6,5 +6,9 @@
   {
     "address": "456 Oak Avenue",
     "price": "$60"
+  },
+  {
+    "address": "125 Main Street",
+    "price": "$27"
   }
 ]
