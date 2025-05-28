@@ -8,11 +8,95 @@
     "price": "$29"
   },
   {
-    "address": "125 Main Street",
-    "price": "$27"
+    "address": "12 Briannarose Drive",
+    "price": "$31"
   },
   {
-    "address": "17 Ruge Court",
+    "address": "14 Briannarose Drive",
+    "price": "$23"
+  },
+  {
+    "address": "16 Briannarose Drive",
     "price": "$21"
+  },
+  {
+    "address": "18 Briannarose Drive",
+    "price": "$42"
+  },
+  {
+    "address": "33 Briannarose Drive",
+    "price": "$48"
+  },
+  {
+    "address": "29 Briannarose Drive",
+    "price": "$33"
+  },
+  {
+    "address": "27 Briannarose Drive",
+    "price": "$37"
+  },
+  {
+    "address": "25 Briannarose Drive",
+    "price": "$38"
+  },
+  {
+    "address": "23 Briannarose Drive",
+    "price": "$31"
+  },
+  {
+    "address": "2 Inuwai Street",
+    "price": "$48"
+  },
+  {
+    "address": "2 Te Tiireke Drive",
+    "price": "$28"
+  },
+  {
+    "address": "4 Te Tiireke Drive",
+    "price": "$29"
+  },
+  {
+    "address": "6 Te Tiireke Drive",
+    "price": "$31"
+  },
+  {
+    "address": "8 Te Tiireke Drive",
+    "price": "$35"
+  },
+  {
+    "address": "10 Te Tiireke Drive",
+    "price": "$29"
+  },
+  {
+    "address": "12 Te Tiireke Drive",
+    "price": "$28"
+  },
+  {
+    "address": "14 Te Tiireke Drive",
+    "price": "$25"
+  },
+  {
+    "address": "16 Te Tiireke Drive",
+    "price": "$22"
+  },
+  {
+    "address": "18 Te Tiireke Drive",
+    "price": "$18"
+  },
+  {
+    "address": "20 Te Tiireke Drive",
+    "price": "$14"
+  },
+  {
+    "address": "22 Te Tiireke Drive",
+    "price": "$18"
+  },
+  {
+    "address": "3 Te Tiireke Drive",
+    "price": "$13"
+  },
+  {
+    "address": "5 Te Tiireke Drive",
+    "price": "$13"
   }
 ]
