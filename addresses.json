@@ -102,5 +102,57 @@
   {
     "address": "230 Dixon Road",
     "price": "$38"
+  },
+   {
+    "address": "33 Briannarose Drive",
+    "price": "$48"
+  },
+  {
+    "address": "29 Briannarose Drive",
+    "price": "$33"
+  },
+  {
+    "address": "27 Briannarose Drive",
+    "price": "$37"
+  },
+  {
+    "address": "25 Briannarose Drive",
+    "price": "$38"
+  },
+  {
+    "address": "23 Briannarose Drive",
+    "price": "$31"
+  },
+  {
+    "address": "21 Briannarose Drive",
+    "price": "$22"
+  },
+  {
+    "address": "19 Briannarose Drive",
+    "price": "$31"
+  },
+  {
+    "address": "17 Briannarose Drive",
+    "price": "$32"
+  },
+  {
+    "address": "15 Briannarose Drive",
+    "price": "$29"
+  },
+  {
+    "address": "13 Briannarose Drive",
+    "price": "$34"
+  },
+  {
+    "address": "11 Briannarose Drive",
+    "price": "$32"
+  },
+  {
+    "address": "9 Briannarose Drive",
+    "price": "$29"
+  },
+  {
+    "address": "7 Briannarose Drive",
+    "price": "$49"
   }
 ]
