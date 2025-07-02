@@ -5,19 +5,19 @@
   },
   {
     "address": "10 Briannarose Drive",
-    "price": "$29"
+    "price": "$35"
   },
   {
     "address": "12 Briannarose Drive",
-    "price": "$31"
+    "price": "$41"
   },
   {
     "address": "14 Briannarose Drive",
-    "price": "$23"
+    "price": "$33"
   },
   {
     "address": "16 Briannarose Drive",
-    "price": "$21"
+    "price": "$31"
   },
   {
     "address": "18 Briannarose Drive",
@@ -25,71 +25,71 @@
   },
   {
     "address": "33 Briannarose Drive",
-    "price": "$48"
+    "price": "$58"
   },
   {
     "address": "29 Briannarose Drive",
-    "price": "$33"
+    "price": "$43"
   },
   {
     "address": "27 Briannarose Drive",
-    "price": "$37"
+    "price": "$47"
   },
   {
     "address": "25 Briannarose Drive",
-    "price": "$38"
-  },
-  {
-    "address": "23 Briannarose Drive",
-    "price": "$31"
-  },
-  {
-    "address": "2 Inuwai Street",
     "price": "$48"
   },
   {
+    "address": "23 Briannarose Drive",
+    "price": "$41"
+  },
+  {
+    "address": "2 Inuwai Street",
+    "price": "$58"
+  },
+  {
     "address": "2 Te Tiireke Drive",
-    "price": "$14"
+    "price": "$21"
   },
   {
     "address": "4 Te Tiireke Drive",
-    "price": "$29"
+    "price": "$39"
   },
   {
     "address": "6 Te Tiireke Drive",
-    "price": "$31"
+    "price": "$41"
   },
   {
     "address": "8 Te Tiireke Drive",
-    "price": "$35"
+    "price": "$45"
   },
   {
     "address": "10 Te Tiireke Drive",
-    "price": "$29"
+    "price": "$39"
   },
   {
     "address": "12 Te Tiireke Drive",
-    "price": "$28"
+    "price": "$38"
   },
   {
     "address": "14 Te Tiireke Drive",
-    "price": "$25"
+    "price": "$35"
   },
   {
     "address": "16 Te Tiireke Drive",
-    "price": "$22"
+    "price": "$32"
   },
   {
     "address": "18 Te Tiireke Drive",
-    "price": "$18"
+    "price": "$28"
   },
   {
     "address": "20 Te Tiireke Drive",
-    "price": "$14"
+    "price": "$24"
   },
   {
     "address": "22 Te Tiireke Drive",
-    "price": "$18"
+    "price": "$28"
   },
   {
     "address": "3 Te Tiireke Drive",
@@ -97,42 +97,42 @@
   },
   {
     "address": "5 Te Tiireke Drive",
-    "price": "$13"
+    "price": "$23"
   },
   {
     "address": "230 Dixon Road",
-    "price": "$38"
+    "price": "$48"
   },
   {
     "address": "21 Briannarose Drive",
-    "price": "$22"
+    "price": "$32"
   },
   {
     "address": "19 Briannarose Drive",
-    "price": "$31"
+    "price": "$41"
   },
   {
     "address": "17 Briannarose Drive",
-    "price": "$32"
+    "price": "$42"
   },
   {
     "address": "15 Briannarose Drive",
-    "price": "$29"
+    "price": "$39"
   },
   {
     "address": "13 Briannarose Drive",
-    "price": "$34"
+    "price": "$44"
   },
   {
     "address": "11 Briannarose Drive",
-    "price": "$32"
+    "price": "$42"
   },
   {
     "address": "9 Briannarose Drive",
-    "price": "$29"
+    "price": "$39"
   },
   {
     "address": "7 Briannarose Drive",
-    "price": "$49"
+    "price": "$59"
   }
 ]
